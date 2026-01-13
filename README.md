@@ -23,7 +23,5 @@ This is a **personal portfolio website** built for showcasing HR, Recruitment, a
 - **JavaScript** (for interactive navigation and reveal animations)  
 - **Responsive Design** using media queries  
 
----
 
-## 📂 Project Structure
 
